@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesafioTrinksTest", "DesafioTrinksTest\DesafioTrinksTest.csproj", "{5ED5608B-6E3A-428C-93A2-861569F51584}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesafioTrinks", "ConsoleApp1\DesafioTrinks.csproj", "{DFC79563-4091-463B-9393-59222C33CFC6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5ED5608B-6E3A-428C-93A2-861569F51584}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5ED5608B-6E3A-428C-93A2-861569F51584}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5ED5608B-6E3A-428C-93A2-861569F51584}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5ED5608B-6E3A-428C-93A2-861569F51584}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFC79563-4091-463B-9393-59222C33CFC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFC79563-4091-463B-9393-59222C33CFC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFC79563-4091-463B-9393-59222C33CFC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFC79563-4091-463B-9393-59222C33CFC6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E53CCBB8-1D9A-4C7F-A71D-F6835A764B0B}
+	EndGlobalSection
+EndGlobal

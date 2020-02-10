@@ -1,0 +1,7 @@
+C:\Users\jeffe\source\repos\DesafioTrinks\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\jeffe\source\repos\DesafioTrinks\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\jeffe\source\repos\DesafioTrinks\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\jeffe\source\repos\DesafioTrinks\ConsoleApp1\obj\Debug\DesafioTrinks.csprojAssemblyReference.cache
+C:\Users\jeffe\source\repos\DesafioTrinks\ConsoleApp1\obj\Debug\DesafioTrinks.csproj.CoreCompileInputs.cache
+C:\Users\jeffe\source\repos\DesafioTrinks\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\jeffe\source\repos\DesafioTrinks\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
